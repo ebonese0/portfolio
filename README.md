@@ -11,19 +11,19 @@ Aspiring IT Engineer, Inspiring Individual
 <img src="./assets/images/coming-soon.png" width="500"/>
 
 ### TryHackMe Journal
-<img src="./assets/images/coming-soon.png" width="300"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 ### Vulnerable System Analysis
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 ### Security Audit
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 ### Cyber Incident Report
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 ### SQL Query
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 
 <p align="center">
