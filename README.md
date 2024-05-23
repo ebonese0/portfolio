@@ -8,10 +8,10 @@ Aspiring IT Engineer, Inspiring Individual
 
 ## Projects
 ### Incident Handler’s Journal
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="500"/>
 
 ### TryHackMe Journal
-<img src="./assets/images/coming-soon.png"/>
+<img src="./assets/images/coming-soon.png" width="300"/>
 
 ### Vulnerable System Analysis
 <img src="./assets/images/coming-soon.png"/>
