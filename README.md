@@ -7,19 +7,24 @@ Q-CELLS (Redeemer)
 
 ## Projects
 ### Incident Handler’s Journal
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
 
 ### TryHackMe Journal
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
 
 ### Vulnerable System Analysis
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
 
 ### Security Audit
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
 
 ### Cyber Incident Report
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
 
 ### SQL Query
-_Coming Soon_
+![coming soon](/assets/images/coming-soon.png)
+
+
+<p align="center">
+Contact Me
+</p>
