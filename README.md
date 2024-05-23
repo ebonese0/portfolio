@@ -1,30 +1,36 @@
-# Process Technician 
-Q-CELLS (Redeemer)
+# Process Technician - Q-CELLS (Redeemer)
+Aspiring IT Engineer, Inspiring Individual
 
 ## Education
 - Mathematics, B.S.
-- Google Cybersecurity Certificate (in progress)
+- Google Cybersecurity Certificate (In Progress)
+- Data Science, M.S. (Coming Soon)
 
 ## Projects
 ### Incident Handler’s Journal
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 ### TryHackMe Journal
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 ### Vulnerable System Analysis
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 ### Security Audit
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 ### Cyber Incident Report
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 ### SQL Query
-![coming soon](/assets/images/coming-soon.png)
+<img src="/assets/images/coming-soon.png"/>
 
 
 <p align="center">
 Contact Me
+</p>
+
+<p align="center">
+  <img src="assets/images/linkedin-original.svg" width="50" /> 
+  <img src="assets/images/gmail.svg" width="50" />
 </p>
