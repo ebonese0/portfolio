@@ -1,10 +1,14 @@
-# Process Technician - Q-CELLS (Redeemer)
-Aspiring IT Engineer, Inspiring Individual
+# Evanna Bonese
+_Aspiring IT Engineer, Inspiring Individual_
+
+<br/><br/><br/>
 
 ## Education
 - Mathematics, B.S.
 - Google Cybersecurity Certificate (In Progress)
 - Data Science, M.S. (Coming Soon)
+
+<br/><br/><br/>
 
 ## Projects
 ### Incident Handler’s Journal
@@ -25,6 +29,7 @@ Aspiring IT Engineer, Inspiring Individual
 ### SQL Query
 <img src="./assets/images/coming-soon.png" width="500"/>
 
+<br/><br/><br/>
 
 <p align="center">
 Contact Me
