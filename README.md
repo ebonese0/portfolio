@@ -8,22 +8,22 @@ Aspiring IT Engineer, Inspiring Individual
 
 ## Projects
 ### Incident Handler’s Journal
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 ### TryHackMe Journal
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 ### Vulnerable System Analysis
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 ### Security Audit
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 ### Cyber Incident Report
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 ### SQL Query
-<img src="/assets/images/coming-soon.png"/>
+<img src="assets/images/coming-soon.png"/>
 
 
 <p align="center">
