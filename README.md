@@ -1,15 +1,11 @@
 # Evanna Bonese
 _Aspiring IT Engineer, Inspiring Individual_
-
-<br/><br/><br/>
-
+<br/><br/>
 ## Education
 - Mathematics, B.S.
 - Google Cybersecurity Certificate (In Progress)
 - Data Science, M.S. (Coming Soon)
-
-<br/><br/><br/>
-
+<br/><br/>
 ## Projects
 ### Incident Handler’s Journal
 <img src="./assets/images/coming-soon.png" width="500"/>
