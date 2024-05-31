@@ -1,11 +1,16 @@
 # Evanna Bonese
+_This portfolio has been moved to https://ebonese.carrd.co/_
+
+<!---
 _Aspiring IT Engineer, Inspiring Individual_
 <br/><br/>
+
 ## Education
 - Mathematics, B.S.
 - Google Cybersecurity Certificate (In Progress)
 - Data Science, M.S. (Coming Soon)
 <br/><br/>
+
 ## Projects
 ### Incident Handler’s Journal
 <img src="./assets/images/coming-soon.png" width="500"/>
@@ -35,3 +40,4 @@ Contact Me
   <img src="assets/images/linkedin-original.svg" width="50" /> 
   <img src="assets/images/gmail.svg" width="50" />
 </p>
+-->
