@@ -1,5 +1,6 @@
 # Evanna Bonese
-_This portfolio has been moved to https://ebonese.carrd.co/_
+_This portfolio has been moved to [ebonese.carrd.co](https://ebonese.carrd.co/)
+
 
 <!---
 _Aspiring IT Engineer, Inspiring Individual_
