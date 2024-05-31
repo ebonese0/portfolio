@@ -1,4 +1,4 @@
-# Evanna Bonese
+
 _This portfolio has been moved to [ebonese.carrd.co](https://ebonese.carrd.co/)_
 
 
